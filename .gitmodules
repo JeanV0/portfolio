@@ -25,9 +25,6 @@
 [submodule "java/contador"]
 	path = java/contador
 	url = https://github.com/JeanVictor0/contador
-[submodule "campo-minado"]
-	path = java/campo-minado
-	url = https://github.com/JeanVictor0/campo-minado
 [submodule "java/calculadora-java"]
 	path = java/calculadora-java
 	url = https://github.com/JeanVictor0/calculadora-java
@@ -67,3 +64,6 @@
 [submodule "node/bypass_proton"]
 	path = node/bypass_proton
 	url = https://github.com/JeanV0/bypass_proton
+[submodule "campo-minad"]
+	path = campo-minad
+	url = https://github.com/JeanVictor0/campo-minado
