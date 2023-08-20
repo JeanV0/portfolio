@@ -1,0 +1,69 @@
+[submodule "node/jogo-backend"]
+	path = node/jogo-backend
+	url = https://github.com/JeanVictor0/jogo-backend
+[submodule "node/system-api"]
+	path = node/system-api
+	url = https://github.com/JeanVictor0/sistem-api
+[submodule "node/starwars-api"]
+	path = node/starwars-api
+	url = https://github.com/JeanVictor0/starwars-api
+[submodule "node/api-express"]
+	path = node/api-express
+	url = https://github.com/JeanVictor0/api-express
+[submodule "node/tcp-ChatServer"]
+	path = node/tcp-ChatServer
+	url = https://github.com/JeanVictor0/tcp-ChatServer
+[submodule "node/httpServer"]
+	path = node/httpServer
+	url = https://github.com/JeanVictor0/httpServer
+[submodule "java/academy-digital"]
+	path = java/academy-digital
+	url = https://github.com/JeanVictor0/academia-digital
+[submodule "java/udemy-java"]
+	path = java/udemy-java
+	url = https://github.com/JeanVictor0/udemy-java
+[submodule "java/contador"]
+	path = java/contador
+	url = https://github.com/JeanVictor0/contador
+[submodule "campo-minado"]
+	path = java/campo-minado
+	url = https://github.com/JeanVictor0/campo-minado
+[submodule "java/calculadora-java"]
+	path = java/calculadora-java
+	url = https://github.com/JeanVictor0/calculadora-java
+[submodule "java/conta-bancaria"]
+	path = java/conta-bancaria
+	url = https://github.com/JeanVictor0/conta-bancaria
+[submodule "java/design-patterns"]
+	path = java/design-patterns
+	url = https://github.com/JeanVictor0/padroes-de-projeto
+[submodule "java/server-phone"]
+	path = java/server-phone
+	url = https://github.com/JeanVictor0/server_phone
+[submodule "java/iphone-2007"]
+	path = java/iphone-2007
+	url = https://github.com/JeanVictor0/iphone-2007
+[submodule "java/chalenge-poo-dio"]
+	path = java/chalenge-poo-dio
+	url = https://github.com/JeanVictor0/desafio-poo-dio
+[submodule "php/chalenge-pigz-php"]
+	path = php/chalenge-pigz-php
+	url = https://github.com/JeanVictor0/estagio-pigz-pub
+[submodule "rust/twitch-selenium"]
+	path = rust/twitch-selenium
+	url = https://github.com/JeanV0/twitch-selenium
+[submodule "rust/twitch-client"]
+	path = rust/twitch-client
+	url = https://github.com/JeanV0/twitch-client
+[submodule "node/whatsapp-venom"]
+	path = node/whatsapp-venom
+	url = https://github.com/JeanV0/whatsapp-venom
+[submodule "python/whatsapp-python"]
+	path = python/whatsapp-python
+	url = https://github.com/JeanV0/whatsapp-python
+[submodule "node/design-pattern"]
+	path = node/design-pattern
+	url = https://github.com/JeanV0/design-pattern
+[submodule "node/bypass_proton"]
+	path = node/bypass_proton
+	url = https://github.com/JeanV0/bypass_proton
