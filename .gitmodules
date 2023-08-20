@@ -64,6 +64,6 @@
 [submodule "node/bypass_proton"]
 	path = node/bypass_proton
 	url = https://github.com/JeanV0/bypass_proton
-[submodule "campo-minad"]
-	path = campo-minad
+[submodule "java/campo-minado"]
+	path = java/campo-minado
 	url = https://github.com/JeanVictor0/campo-minado
