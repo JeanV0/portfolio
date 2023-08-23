@@ -1,0 +1,19 @@
+---------------------------------------- Portuguese - Brazil ----------------------------------------
+
+Ola, estou aqui para anunciar uma ideia. Por favor, leia e curta para apoiar
+
+Enfim, essa postagem é em portugues, entretanto, haverá uma segunda postagem em inglês e tou com ideia de videos. Na plataforma de videos conhecida como youtube.
+
+O projeto será se baseando na api da uber. Esse é o link https://developer.uber.com/docs. O qual quero integrar mais de uma api deles, por exemplo, Uber Eats, Pay ou Drivers. Alem de ser feito em Java, postgres, Spring, Apache Kafka e Redis.
+
+Amanhã irei postar mais a fundo sobre o projeto, falando cada biblioteca, forma de comunicação e microserviços. Eu realmente espero que der certo, obrigado por sua atenção
+
+---------------------------------------- English - IDK ----------------------------------------
+
+Hi, i came to announce an idea. Please, read and like to support
+
+Anyway, that post is in english ( and it's hard for me ), but, there will be a second post in portuguese and idea of ​​making videos. On a video platform called youtube.
+
+The project will be based on an api, this api from a transport company called uber. This is the link to the documentation https://developer.uber.com/docs. Which to integrate more than one service, like, Uber Eats, Pay and Drive. In addition to being done in Java, PostgreSql, Spring Framework, Apache Kafka and redis.
+
+Tomorrow I will make a more in-depth post about the project, talking about each module, how to communicate in a microservice system. I really hope that's right, thanks for your attention

@@ -35,7 +35,7 @@ Anyway, in this company that I used php, nginx, docker and nodejs ( typescript )
 # Actual Or New Projects
 
 ## Uber integration
-- [Whatsapp Bot](?) 
+- [Uber integration](?) 
 * Date: **August 22, 2023**
 * Deadline: **Setember 08, 2023**
 * Posts: [Linkedin](https://www.linkedin.com/in/jeanvictor1/)
