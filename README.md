@@ -3,13 +3,15 @@ Hello, I'm Jean Victor. I currently work as a Backend developer. This portfolio 
 ## Sumary
 1. **Introduction**
 - Timeline ( **2020-2023** )
-2. **Projects**
+2. **Actual or New Project**
+3. **Finished Projects** - In Development 
+4. **Projects**
 - Python
 - Node
 - Java
 - Php
 - Rust
-3. **Contacts**
+5. **Contacts**
 
 # Introduction
 
@@ -28,6 +30,17 @@ I don't know if I can talk about the things I've done. But, I led the cloud migr
 **2023:** I went from DevOps and then back end, I solved several instability problems, I worked with service containers and DevOps stuff. In addition to creating ordering system integration from one company to another.
 
 Anyway, in this company that I used php, nginx, docker and nodejs ( typescript ) hard. 
+
+
+# Actual Or New Projects
+
+## Uber integration
+- [Whatsapp Bot](?) 
+* Date: **August 22, 2023**
+* Deadline: **Setember 08, 2023**
+* Posts: [Linkedin](https://www.linkedin.com/in/jeanvictor1/)
+#### This project is what I learned in my life as a programmer. Multi stack, OOP, SOLID, Design Pattern, TDD and much more. I will use everyone I know in that project
+In planning time
 
 # Projects
 ## Python
